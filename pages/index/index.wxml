@@ -1,0 +1,35 @@
+<view class="main con-col">
+	<view class="main-box con-col">
+		<!-- 信息框 -->
+		<view class="msg-box con-col">
+		<view class="msg-box-item con-col">
+			<!-- 头部 -->
+			<view class="top-box con-row">
+				<view class="ava-img">
+					<image class="ava-img" src="../images/tx.png"></image>
+				</view>
+				<view class="username-text">你的小白象</view>
+			</view>
+			<!-- 信息主体 -->
+			<view class="mid-box con-col">
+				<view>这是一个标题</view>
+				<view>这是一段文字或者是图片</view>
+				<view class="img-content" >
+					<image style="border-radius: 10px;" mode="widthFix" src="../images/laopo.jpg"></image>
+				</view>
+				
+			</view>
+			<view class="bot-box con-row">
+				<view class="like-btn con-row">
+					<image class="bot-img" src="../images/dz1.png"></image>
+					<text style="color: #999;">0</text>
+				</view>
+				<view class="con-row">
+					<image style="margin-top: 2px; margin-right: 3px;" class="bot-img" src="../images/pl1.png"></image>
+					<text style="color: #999;">0</text>
+				</view>
+			</view>
+		</view>
+		</view>
+	</view>
+</view>
