@@ -1,4 +1,4 @@
-// pages/index/index.js
+// pages/index/add/add.js
 Page({
 
   /**
@@ -7,11 +7,7 @@ Page({
   data: {
 
   },
-  add(){
-	wx.navigateTo({
-		url:'./add/add'
-	}) 
-  },
+
   /**
    * 生命周期函数--监听页面加载
    */

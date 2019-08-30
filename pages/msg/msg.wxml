@@ -1,2 +1,86 @@
-<!--pages/msg/msg.wxml-->
-<text>pages/msg/msg.wxml</text>
+<view class="page" style="width: 100%;height: 100%;">
+    <view class="page__bd" style="width: 100%;height: 100%;">
+		<scroll-view style="width: 100%;height: 100%;" scroll-y="true">
+			<view class="weui-panel weui-panel_access">
+			    <view class="weui-panel__hd">您的消息</view>
+			    <view class="weui-panel__bd">
+			        <navigator url="" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+			            <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+			                <image class="weui-media-box__thumb" src="../images/tx.png" />
+			            </view>
+			            <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+			                <view class="weui-media-box__title">你的大黑象</view>
+			                <view class="weui-media-box__desc">赞了你的评论</view>
+			            </view>
+			        </navigator>
+					<navigator url="" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+					    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+					        <image class="weui-media-box__thumb" src="../images/tx.png" />
+					    </view>
+					    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+					        <view class="weui-media-box__title">你的大黑象</view>
+					        <view class="weui-media-box__desc">赞了你的帖子</view>
+					    </view>
+					</navigator>
+			        <navigator url="" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+			            <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+			                <image class="weui-media-box__thumb" src="../images/tx.png" />
+			            </view>
+			            <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+			                <view class="weui-media-box__title">你的小白兔</view>
+			                <view class="weui-media-box__desc">评论了你的评论</view>
+			            </view>
+			        </navigator>
+					<navigator url="" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+					    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+					        <image class="weui-media-box__thumb" src="../images/tx.png" />
+					    </view>
+					    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+					        <view class="weui-media-box__title">你的小白兔</view>
+					        <view class="weui-media-box__desc">评论了你的帖子</view>
+					    </view>
+					</navigator>
+					<navigator url="" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+					    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+					        <image class="weui-media-box__thumb" src="../images/tx.png" />
+					    </view>
+					    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+					        <view class="weui-media-box__title">你的大黑象</view>
+					        <view class="weui-media-box__desc">赞了你的评论</view>
+					    </view>
+					</navigator>
+					<navigator url="" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+					    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+					        <image class="weui-media-box__thumb" src="../images/tx.png" />
+					    </view>
+					    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+					        <view class="weui-media-box__title">你的大黑象</view>
+					        <view class="weui-media-box__desc">赞了你的帖子</view>
+					    </view>
+					</navigator>
+					<navigator url="" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+					    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+					        <image class="weui-media-box__thumb" src="../images/tx.png" />
+					    </view>
+					    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+					        <view class="weui-media-box__title">你的小白兔</view>
+					        <view class="weui-media-box__desc">评论了你的评论</view>
+					    </view>
+					</navigator>
+					<navigator url="" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+					    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+					        <image class="weui-media-box__thumb" src="../images/tx.png" />
+					    </view>
+					    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+					        <view class="weui-media-box__title">你的小白兔</view>
+					        <view class="weui-media-box__desc">评论了你的帖子</view>
+					    </view>
+					</navigator>
+			    </view>
+			    
+			</view>
+			    
+		</scroll-view>
+
+	</view>
+</view>

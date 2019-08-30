@@ -47,7 +47,9 @@ page{
 	height: 20px;
 }
 .like-btn{
-	margin-right: 20px;
+	margin-top: 8px;
+	margin-right: 50px;
+	margin-left: 10px;
 	
 }
 .img-content{
@@ -55,4 +57,9 @@ page{
 	flex-direction: row;
 	width: 100%;
 	
+}
+.bot-add{
+	position: fixed;
+	bottom: 3%;
+	right: 20px;
 }

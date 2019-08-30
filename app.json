@@ -2,7 +2,8 @@
   "pages": [
     "pages/index/index",
     "pages/msg/msg",
-    "pages/user/user"
+    "pages/user/user",
+    "pages/index/add/add"
   ],
   "tabBar": {
     "color": "#999999",
