@@ -1,4 +1,5 @@
 {
   "usingComponents": {},
-  "navigationBarTitleText": "小红娘首页"
+  "navigationBarTitleText": "小红娘首页",
+  "navigationBarBackgroundColor": "#f45a8d"
 }

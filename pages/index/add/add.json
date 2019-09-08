@@ -1,3 +1,9 @@
 {
-  "usingComponents": {}
+	"usingComponents": {
+		"mp-cells": "../../miniprogram_npm/weui-miniprogram/cells/cells",
+		"mp-cell": "../../miniprogram_npm/weui-miniprogram/cell/cell",
+		"mp-uploader": "../../miniprogram_npm/weui-miniprogram/uploader/uploader"
+	},
+	"navigationBarTitleText": "发布您的表白",
+  "navigationBarBackgroundColor": "#f45a8d"
 }

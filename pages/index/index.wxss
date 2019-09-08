@@ -15,7 +15,7 @@ page{
 .ava-img{
 	height: 36px;
 	width: 36px;
-	border: 1px solid #eee;
+	border: 0px solid #eee;
 	border-radius: 50%;
 	margin-right: 5px;
 }
@@ -62,4 +62,8 @@ page{
 	position: fixed;
 	bottom: 3%;
 	right: 20px;
+}
+	
+.username-text{
+	font-size: 14px;
 }
